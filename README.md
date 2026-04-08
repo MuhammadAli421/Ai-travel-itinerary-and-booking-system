@@ -1,6 +1,6 @@
 # ✈️ AI Travel Planner
 
-> A full-stack travel planning app powered by OpenAI GPT-4o. Plan trips, manage bookings, and generate AI-powered itineraries — all in one place.
+> A full-stack travel planning app powered by OpenAI GPT. Plan trips, manage bookings, and generate AI-powered itineraries — all in one place.
 
 ![Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20Python-blueviolet?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-OpenAI%20GPT--4o-green?style=for-the-badge)
